@@ -1,4 +1,4 @@
-package com.raunak.library.book_service.config;
+package com.raunak.library.review_service.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

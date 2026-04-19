@@ -1,4 +1,4 @@
-package com.raunak.library.book_service;
+package com.raunak.library.review_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

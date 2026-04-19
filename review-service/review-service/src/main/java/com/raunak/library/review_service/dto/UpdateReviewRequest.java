@@ -1,4 +1,4 @@
-package com.raunak.library.book_service.dto;
+package com.raunak.library.review_service.dto;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package com.raunak.library.book_service.util;
+package com.raunak.library.review_service.util;
 
 public class ApiError {
     String status;

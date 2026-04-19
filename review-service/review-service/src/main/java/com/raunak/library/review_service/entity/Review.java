@@ -1,4 +1,4 @@
-package com.raunak.library.book_service.entity;
+package com.raunak.library.review_service.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
