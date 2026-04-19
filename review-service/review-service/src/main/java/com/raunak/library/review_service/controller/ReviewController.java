@@ -1,9 +1,9 @@
-package com.raunak.library.book_service.controller;
+package com.raunak.library.review_service.controller;
 
-import com.raunak.library.book_service.dto.AddReviewRequest;
-import com.raunak.library.book_service.dto.UpdateReviewRequest;
-import com.raunak.library.book_service.entity.Review;
-import com.raunak.library.book_service.service.ReviewService;
+import com.raunak.library.review_service.dto.AddReviewRequest;
+import com.raunak.library.review_service.dto.UpdateReviewRequest;
+import com.raunak.library.review_service.entity.Review;
+import com.raunak.library.review_service.service.ReviewService;
 import lombok.AllArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.http.HttpStatus;

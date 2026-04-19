@@ -1,11 +1,11 @@
-package com.raunak.library.book_service.service.impl;
+package com.raunak.library.review_service.service.impl;
 
-import com.raunak.library.book_service.dao.ReviewRepository;
-import com.raunak.library.book_service.dto.AddReviewRequest;
-import com.raunak.library.book_service.dto.UpdateReviewRequest;
-import com.raunak.library.book_service.entity.Review;
-import com.raunak.library.book_service.service.ReviewService;
-import com.raunak.library.book_service.util.AppUtil;
+import com.raunak.library.review_service.dao.ReviewRepository;
+import com.raunak.library.review_service.dto.AddReviewRequest;
+import com.raunak.library.review_service.dto.UpdateReviewRequest;
+import com.raunak.library.review_service.entity.Review;
+import com.raunak.library.review_service.service.ReviewService;
+import com.raunak.library.review_service.util.AppUtil;
 import lombok.AllArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

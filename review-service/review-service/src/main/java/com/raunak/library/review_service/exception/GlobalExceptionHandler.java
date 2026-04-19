@@ -1,6 +1,6 @@
-package com.raunak.library.book_service.exception;
+package com.raunak.library.review_service.exception;
 
-import com.raunak.library.book_service.util.ApiError;
+import com.raunak.library.review_service.util.ApiError;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;

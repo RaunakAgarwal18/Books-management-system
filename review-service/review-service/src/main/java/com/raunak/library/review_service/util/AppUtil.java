@@ -1,4 +1,4 @@
-package com.raunak.library.book_service.util;
+package com.raunak.library.review_service.util;
 
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
